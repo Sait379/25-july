@@ -31,7 +31,7 @@ export let employees = [
 
 export function getAllEmployees(req, res) {
   res.status(200).json(employees);
-}
+} 
 
 export function getEmployeeById(req, res) {
   const id = parseInt(req.params.id);
