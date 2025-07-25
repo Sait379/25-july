@@ -29,7 +29,7 @@ Edit
 
 - Node.js
 - Express.js
-- JSON as data store (no database)
+- In Memory Database
 - ES6 Modules
 
 ## 📦 Install & Run
