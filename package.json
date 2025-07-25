@@ -1,0 +1,21 @@
+{
+  "name": "kirti",
+  "version": "1.0.0",
+  "description": "it's an amazing package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kirti",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^20.1.1",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
