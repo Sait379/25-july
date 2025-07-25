@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "first_name": "Phaedra",
+        "last_name": "Roakes",
+        "email": "proakes0@admin.ch",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Maynard",
+        "last_name": "Lackner",
+        "email": "mlackner1@virginia.edu",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 3,
+        "first_name": "Angie",
+        "last_name": "Sail",
+        "email": "asail2@state.gov",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Lotty",
+        "last_name": "Tortice",
+        "email": "ltortice3@liveinternet.ru",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Fayre",
+        "last_name": "Neljes",
+        "email": "fneljes4@umn.edu",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Klaus",
+        "last_name": "Patkin",
+        "email": "kpatkin5@tripod.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Mareah",
+        "last_name": "Pail",
+        "email": "mpail6@nydailynews.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Casi",
+        "last_name": "Causon",
+        "email": "ccauson7@wix.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Felisha",
+        "last_name": "Knell",
+        "email": "fknell8@hc360.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Xylina",
+        "last_name": "Wolsey",
+        "email": "xwolsey9@nih.gov",
+        "gender": "Female"
+    },
+    {
+        "first_name": "Mayank Meethuu",
+        "last_name": "Wolsey",
+        "email": "xwolsey9@nih.gov",
+        "gender": "Male",
+        "id": 11,
+        "name": "ayushi jha",
+        "fatherName": "Kali ji",
+        "aadharCardNo": "1123467",
+        "mobileNo": "8860044187"
+    },
+    {
+        "first_name": "Mayank",
+        "last_name": "Pal",
+        "email": "odelchecolo9@sitemeter.com",
+        "gender": "Male",
+        "id": 12
+    },
+    {
+        "rollno": 1,
+        "name": "Mayank pal",
+        "fatherName": "Kali ji",
+        "aadharCardNo": "1123467",
+        "mobileNo": "8860044187",
+        "id": 13
+    },
+    {
+        "name": "ayushi jha",
+        "fatherName": "Kali ji",
+        "aadharCardNo": "1123467",
+        "mobileNo": "8860044187",
+        "id": 14
+    }
+]
